@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Maker of things, doer of stuff
+title: Kenny Phongsavan
 email: kennyphongsavan@cyanacklabs.dev
 description: >- # this means to ignore newlines until "baseurl:"
   I do random crap with computers and electronics.
@@ -28,13 +28,13 @@ twitter_username: scifi316
 github_username:  scifi316
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: just-the-docs/just-the-docs
+#minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - minimal-mistakes-jekyll
+  #- minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
