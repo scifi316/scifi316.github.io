@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-permalink: /home/
+layout: page
+title: About Me
+nav_order: 10
+permalink: /about-me
 ---
 
-Welcome, this is where I store all my projects and crap, take a look around and what you need.
